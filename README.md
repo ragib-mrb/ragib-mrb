@@ -21,7 +21,7 @@ I started out writing PHP back in 2012 and never really stopped building for the
   <img src="https://img.shields.io/badge/Architecture-Microservices-0EA5E9?style=flat-square" alt="Microservices" />
   <img src="https://img.shields.io/badge/Frontend-Micro--frontends-14B8A6?style=flat-square" alt="Micro-frontends" />
   <img src="https://img.shields.io/badge/AWS_Certified-Generative_AI_Developer-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Generative AI Developer" />
-  <img src="https://img.shields.io/badge/Open_to-Senior_%2F_Lead_roles-22C55E?style=flat-square" alt="Open to Senior / Lead roles" />
+  <img src="https://img.shields.io/badge/Into-Clean_Architecture-22C55E?style=flat-square" alt="Into Clean Architecture" />
 </p>
 
 ```js
@@ -95,7 +95,7 @@ const ragib = {
 
 <p align="center">
   Most of my work lives in private repos, so this is more of a learning-in-public corner.<br/>
-  <b>Open to senior and lead roles. Say hi on <a href="https://www.linkedin.com/in/ragib-mrb">LinkedIn</a>.</b>
+  <b>Always up for a good tech chat. Say hi on <a href="https://www.linkedin.com/in/ragib-mrb">LinkedIn</a>.</b>
 </p>
 
 <p align="center">
